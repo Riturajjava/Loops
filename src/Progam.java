@@ -30,7 +30,7 @@ public class Progam {
         }
         for (int i=1; i<10; i++){
             System.out.println("condition" + i);}
-            for (int i = 10; !(i <= 0); i--)
+            for (int i = 10;  (i <= 0); i--)
             {
         System.out.println(2*i);
         }
